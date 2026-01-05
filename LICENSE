@@ -1,0 +1,82 @@
+MIT License
+
+Copyright (c) 2026 SmartRecon-AI Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+DISCLAIMER AND TERMS OF USE
+
+FOR AUTHORIZED TESTING ONLY
+
+This tool ("SmartRecon-AI") is intended solely for authorized security testing,
+vulnerability research, and participation in legitimate bug bounty programs.
+
+By using this software, you agree to the following terms:
+
+1. AUTHORIZATION REQUIREMENT
+   You must obtain explicit, written authorization before scanning or testing
+   any target, system, network, or application. Unauthorized access to computer
+   systems may be illegal under local, state, federal, or international law.
+
+2. USER RESPONSIBILITY
+   Users are solely responsible for:
+   - Obtaining proper authorization before any testing
+   - Ensuring compliance with all applicable laws and regulations
+   - Respecting target scope and rate limits
+   - Not causing damage, disruption, or data loss to any system
+   - Maintaining confidentiality of discovered vulnerabilities
+
+3. NO WARRANTY
+   This software is provided "as is" without warranty of any kind. The authors
+   and contributors assume no liability for any misuse, damage, or legal
+   consequences resulting from the use of this software.
+
+4. PROHIBITED USES
+   You may NOT use this software to:
+   - Access systems without explicit authorization
+   - Perform destructive testing or denial-of-service attacks
+   - Violate any laws or regulations
+   - Harm, disrupt, or damage any systems or networks
+   - Steal, modify, or delete data without authorization
+
+5. COMPLIANCE
+   Users must comply with:
+   - Bug bounty program terms and conditions
+   - Responsible disclosure policies
+   - Local and international computer fraud and abuse laws
+   - Data protection and privacy regulations (GDPR, CCPA, etc.)
+
+6. INDEMNIFICATION
+   You agree to indemnify and hold harmless the authors, contributors, and
+   distributors of this software from any claims, damages, or legal actions
+   arising from your use or misuse of this software.
+
+7. MODIFICATIONS
+   If you modify this software, you must:
+   - Maintain this disclaimer in all distributions
+   - Clearly indicate modifications
+   - Not misrepresent the origin of the software
+
+VIOLATION OF THESE TERMS MAY RESULT IN CRIMINAL AND CIVIL PENALTIES.
+
+USE AT YOUR OWN RISK.
+
+For questions or concerns, contact: legal@smartrecon.ai
